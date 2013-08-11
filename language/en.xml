@@ -38,4 +38,7 @@
 		<item name="wcf.legalNotice.title"><![CDATA[Legal Notice]]></item>
 		<item name="wcf.legalNotice.vatID"><![CDATA[VAT ID]]></item>
 	</category>
+	<category name="wcf.user.usersOnline">
+		<item name="wcf.user.usersOnline.location.legalNotice"><![CDATA[Legal Notice]]></item>
+	</category>
 </language>
